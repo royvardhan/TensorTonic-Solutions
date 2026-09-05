@@ -23,5 +23,5 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 |---|---|---|
 | Create Arrays from Lists | Create NumPy arrays from Python lists with the requested dtype and return their values, shape, dimensions, and element count. | https://www.tensortonic.com/study-plans/numpy-basics/numpy-create-array |
 
-View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/royvardhan_official)
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/royvardhan)
 <!-- tensortonic:end -->
